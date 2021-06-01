@@ -1,0 +1,34 @@
+Vivado Simulator 2018.2
+Time resolution is 1 ps
+At time   0ns: I = 00000, pass = 0
+At time  20ns: I = 00001, pass = 0
+At time  40ns: I = 00010, pass = 0
+At time  60ns: I = 00011, pass = 0
+At time  80ns: I = 00100, pass = 0
+At time 100ns: I = 00101, pass = 0
+At time 120ns: I = 00110, pass = 0
+At time 140ns: I = 00111, pass = 1
+At time 160ns: I = 01000, pass = 0
+At time 180ns: I = 01001, pass = 0
+At time 200ns: I = 01010, pass = 0
+At time 220ns: I = 01011, pass = 1
+At time 240ns: I = 01100, pass = 0
+At time 260ns: I = 01101, pass = 1
+At time 280ns: I = 01110, pass = 1
+At time 300ns: I = 01111, pass = 1
+At time 320ns: I = 10000, pass = 0
+At time 340ns: I = 10001, pass = 0
+At time 360ns: I = 10010, pass = 0
+At time 380ns: I = 10011, pass = 1
+At time 400ns: I = 10100, pass = 0
+At time 420ns: I = 10101, pass = 1
+At time 440ns: I = 10110, pass = 1
+At time 460ns: I = 10111, pass = 1
+At time 480ns: I = 11000, pass = 0
+At time 500ns: I = 11001, pass = 1
+At time 520ns: I = 11010, pass = 1
+At time 540ns: I = 11011, pass = 1
+At time 560ns: I = 11100, pass = 1
+At time 580ns: I = 11101, pass = 1
+At time 600ns: I = 11110, pass = 1
+At time 620ns: I = 11111, pass = 1
