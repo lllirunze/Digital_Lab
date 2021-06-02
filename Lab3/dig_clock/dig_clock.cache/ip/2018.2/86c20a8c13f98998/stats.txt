@@ -1,4 +1,0 @@
-NumberHits:0
-Timestamp: Tue May 18 01:27:07 UTC 2021
-VLNV: xilinx.com:user:bin2bcd:1.0
-SynthRuntime: 45
